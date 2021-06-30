@@ -1,0 +1,13 @@
+.d-flex {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    
+
+}
+
+.card {
+    height: auto;
+    margin-bottom: 10px;
+    box-shadow: 5px 10px #888888;
+}
